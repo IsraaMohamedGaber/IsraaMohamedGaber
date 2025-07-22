@@ -74,7 +74,7 @@ I'm always open to collaborating on meaningful tech projects or exploring opport
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsraaMohamedGaber&show_icons=true&theme=github_dark&hide_title=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsraaMohamedGaber&theme=dark"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsraaMohamedGaber&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsraaMohamedGaber&show_icons=true&theme=github_dark&hide_title=true"/> <br>  <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsraaMohamedGaber&theme=tokyonight"/> </p>
 
 ---
 
