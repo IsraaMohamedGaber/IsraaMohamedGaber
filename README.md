@@ -53,7 +53,7 @@ Here are some highlights from my repositories:
 
 ## 🛠️ Technologies & Tools
 
-**Languages**: Python, Java, JavaScript, SQL, HTML/CSS  
+**Languages**: Python, C, C++, HTML/CSS  
 **Frameworks**: Keras, PyTorch, TensorFlow, Hugging Face Transformers  
 **Tools**: Git, MLflow, Tableau, Pandas, Seaborn, Gradio, FastAPI  
 **Platforms**: Kaggle, Google Colab, VS Code, Linux, GitHub
