@@ -31,7 +31,7 @@ I'm also a lifelong learner who enjoys solving problems, working with real-world
 
 ## 🚀 Highlights
 
-- 🤖 Building AI/NLP models (Fine-tuning, RAG, Transformers)
+- 🤖 Building AI/NLP models (Fine-tuning, RAG)
 - 📊 Data Analysis & Visualization (Excel, SQL, Python, R, Tableau)
 - 🧠 LLM fine-tuning, prompt engineering, and model evaluation
 - 📈 Building ML pipelines and real-time dashboards
