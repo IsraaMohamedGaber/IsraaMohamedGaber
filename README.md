@@ -7,7 +7,7 @@
 
 ---
 
-## 🧕 About Me
+## 🌟 About Me
 
 I'm **Israa Mohamed Gaber**, a dedicated and curious Computer Science graduate from the **Faculty of Science – Computer Science Department** at **Alexandria University**, with a passion for **Artificial Intelligence**, **Natural Language Processing (NLP)**, and **Data Science**. I’m currently part of **Intake 45** of the **AI & Machine Learning Diploma at ITI (Alexandria branch)**, where I'm deepening my skills in machine learning, deep learning, and real-world AI applications.
 
@@ -26,6 +26,7 @@ I'm also a lifelong learner who enjoys solving problems, working with real-world
 - **Bachelor of Science in Computer Science**  
   *Faculty of Science – Alexandria University*  
   *2020 – 2024*
+  *CGPA: 3.46 / 4.0*
 
 ---
 
@@ -72,7 +73,10 @@ I'm always open to collaborating on meaningful tech projects or exploring opport
 
 ---
 
+## GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsraaMohamedGaber&show_icons=true&theme=github_dark&hide_title=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsraaMohamedGaber&theme=dark"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsraaMohamedGaber&theme=tokyonight"/> </p>
+
+---
+
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me!*
 
- GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsraaMohamedGaber&show_icons=true&theme=github_dark&hide_title=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsraaMohamedGaber&theme=dark"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsraaMohamedGaber&theme=tokyonight"/> </p>
